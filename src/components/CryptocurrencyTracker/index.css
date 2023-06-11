@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.con1 {
+  background-color: #000000;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  color: #00e7ff;
+}
